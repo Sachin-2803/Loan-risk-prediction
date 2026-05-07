@@ -1,4 +1,4 @@
-# 🏦 LoanRisk AI - Smart Loan Approval & Risk Assessment System
+# LoanRisk AI - Smart Loan Approval & Risk Assessment System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
